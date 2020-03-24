@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-bridge/adapter-bridge.iml" filepath="$PROJECT_DIR$/adapter-bridge/adapter-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder-prototype/builder-prototype.iml" filepath="$PROJECT_DIR$/builder-prototype/builder-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain-strategy/chain-strategy.iml" filepath="$PROJECT_DIR$/chain-strategy/chain-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-iterator/command-iterator.iml" filepath="$PROJECT_DIR$/command-iterator/command-iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-flyweight/composite-flyweight.iml" filepath="$PROJECT_DIR$/composite-flyweight/composite-flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delegate-template/delegate-template.iml" filepath="$PROJECT_DIR$/delegate-template/delegate-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade-decorator/facade-decorator.iml" filepath="$PROJECT_DIR$/facade-decorator/facade-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/gupaoedu-vip-pattern-abstractfactory/gupaoedu-vip-pattern-abstractfactory.iml" filepath="$PROJECT_DIR$/factory/gupaoedu-vip-pattern-abstractfactory/gupaoedu-vip-pattern-abstractfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter-bridge/gupaoedu-vip-pattern-adapter/gupaoedu-vip-pattern-adapter.iml" filepath="$PROJECT_DIR$/adapter-bridge/gupaoedu-vip-pattern-adapter/gupaoedu-vip-pattern-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter-bridge/gupaoedu-vip-pattern-bridge/gupaoedu-vip-pattern-bridge.iml" filepath="$PROJECT_DIR$/adapter-bridge/gupaoedu-vip-pattern-bridge/gupaoedu-vip-pattern-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder-prototype/gupaoedu-vip-pattern-builder/gupaoedu-vip-pattern-builder.iml" filepath="$PROJECT_DIR$/builder-prototype/gupaoedu-vip-pattern-builder/gupaoedu-vip-pattern-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain-strategy/gupaoedu-vip-pattern-chain/gupaoedu-vip-pattern-chain.iml" filepath="$PROJECT_DIR$/chain-strategy/gupaoedu-vip-pattern-chain/gupaoedu-vip-pattern-chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-iterator/gupaoedu-vip-pattern-command/gupaoedu-vip-pattern-command.iml" filepath="$PROJECT_DIR$/command-iterator/gupaoedu-vip-pattern-command/gupaoedu-vip-pattern-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-flyweight/gupaoedu-vip-pattern-composite/gupaoedu-vip-pattern-composite.iml" filepath="$PROJECT_DIR$/composite-flyweight/gupaoedu-vip-pattern-composite/gupaoedu-vip-pattern-composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade-decorator/gupaoedu-vip-pattern-decorator/gupaoedu-vip-pattern-decorator.iml" filepath="$PROJECT_DIR$/facade-decorator/gupaoedu-vip-pattern-decorator/gupaoedu-vip-pattern-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade-decorator/gupaoedu-vip-pattern-facade/gupaoedu-vip-pattern-facade.iml" filepath="$PROJECT_DIR$/facade-decorator/gupaoedu-vip-pattern-facade/gupaoedu-vip-pattern-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/gupaoedu-vip-pattern-factory-pool/gupaoedu-vip-pattern-factory-pool.iml" filepath="$PROJECT_DIR$/factory/gupaoedu-vip-pattern-factory-pool/gupaoedu-vip-pattern-factory-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/gupaoedu-vip-pattern-factorymethod/gupaoedu-vip-pattern-factorymethod.iml" filepath="$PROJECT_DIR$/factory/gupaoedu-vip-pattern-factorymethod/gupaoedu-vip-pattern-factorymethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-flyweight/gupaoedu-vip-pattern-flyweight/gupaoedu-vip-pattern-flyweight.iml" filepath="$PROJECT_DIR$/composite-flyweight/gupaoedu-vip-pattern-flyweight/gupaoedu-vip-pattern-flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter-mediator/gupaoedu-vip-pattern-interpreter/gupaoedu-vip-pattern-interpreter.iml" filepath="$PROJECT_DIR$/interpreter-mediator/gupaoedu-vip-pattern-interpreter/gupaoedu-vip-pattern-interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-iterator/gupaoedu-vip-pattern-iterator/gupaoedu-vip-pattern-iterator.iml" filepath="$PROJECT_DIR$/command-iterator/gupaoedu-vip-pattern-iterator/gupaoedu-vip-pattern-iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter-mediator/gupaoedu-vip-pattern-mediator/gupaoedu-vip-pattern-mediator.iml" filepath="$PROJECT_DIR$/interpreter-mediator/gupaoedu-vip-pattern-mediator/gupaoedu-vip-pattern-mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-memento/gupaoedu-vip-pattern-memento/gupaoedu-vip-pattern-memento.iml" filepath="$PROJECT_DIR$/state-memento/gupaoedu-vip-pattern-memento/gupaoedu-vip-pattern-memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-visitor/gupaoedu-vip-pattern-observer/gupaoedu-vip-pattern-observer.iml" filepath="$PROJECT_DIR$/observer-visitor/gupaoedu-vip-pattern-observer/gupaoedu-vip-pattern-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder-prototype/gupaoedu-vip-pattern-prototype/gupaoedu-vip-pattern-prototype.iml" filepath="$PROJECT_DIR$/builder-prototype/gupaoedu-vip-pattern-prototype/gupaoedu-vip-pattern-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/gupaoedu-vip-pattern-proxy/gupaoedu-vip-pattern-proxy.iml" filepath="$PROJECT_DIR$/proxy/gupaoedu-vip-pattern-proxy/gupaoedu-vip-pattern-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/gupaoedu-vip-pattern-simplefactory/gupaoedu-vip-pattern-simplefactory.iml" filepath="$PROJECT_DIR$/factory/gupaoedu-vip-pattern-simplefactory/gupaoedu-vip-pattern-simplefactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/gupaoedu-vip-pattern-singleton/gupaoedu-vip-pattern-singleton.iml" filepath="$PROJECT_DIR$/singleton/gupaoedu-vip-pattern-singleton/gupaoedu-vip-pattern-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-memento/gupaoedu-vip-pattern-state/gupaoedu-vip-pattern-state.iml" filepath="$PROJECT_DIR$/state-memento/gupaoedu-vip-pattern-state/gupaoedu-vip-pattern-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain-strategy/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" filepath="$PROJECT_DIR$/chain-strategy/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-visitor/gupaoedu-vip-pattern-visitor/gupaoedu-vip-pattern-visitor.iml" filepath="$PROJECT_DIR$/observer-visitor/gupaoedu-vip-pattern-visitor/gupaoedu-vip-pattern-visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter-mediator/interpreter-mediator.iml" filepath="$PROJECT_DIR$/interpreter-mediator/interpreter-mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-visitor/observer-visitor.iml" filepath="$PROJECT_DIR$/observer-visitor/observer-visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-study.iml" filepath="$PROJECT_DIR$/pattern-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-memento/state-memento.iml" filepath="$PROJECT_DIR$/state-memento/state-memento.iml" />
+    </modules>
+  </component>
+</project>

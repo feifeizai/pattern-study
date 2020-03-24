@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xhf</groupId>
+    <artifactId>pattern-study</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>factory</module>
+        <module>singleton</module>
+        <module>builder-prototype</module>
+        <module>proxy</module>
+        <module>facade-decorator</module>
+        <module>composite-flyweight</module>
+        <module>delegate-template</module>
+        <module>chain-strategy</module>
+        <module>command-iterator</module>
+        <module>state-memento</module>
+        <module>interpreter-mediator</module>
+        <module>observer-visitor</module>
+        <module>adapter-bridge</module>
+    </modules>
+
+
+</project>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter-bridge" />
+        <module name="builder-prototype" />
+        <module name="chain-strategy" />
+        <module name="command-iterator" />
+        <module name="composite-flyweight" />
+        <module name="delegate-template" />
+        <module name="facade-decorator" />
+        <module name="factory" />
+        <module name="gupaoedu-vip-pattern-abstractfactory" />
+        <module name="gupaoedu-vip-pattern-adapter" />
+        <module name="gupaoedu-vip-pattern-bridge" />
+        <module name="gupaoedu-vip-pattern-builder" />
+        <module name="gupaoedu-vip-pattern-chain" />
+        <module name="gupaoedu-vip-pattern-command" />
+        <module name="gupaoedu-vip-pattern-composite" />
+        <module name="gupaoedu-vip-pattern-decorator" />
+        <module name="gupaoedu-vip-pattern-facade" />
+        <module name="gupaoedu-vip-pattern-factory-pool" />
+        <module name="gupaoedu-vip-pattern-factorymethod" />
+        <module name="gupaoedu-vip-pattern-flyweight" />
+        <module name="gupaoedu-vip-pattern-interpreter" />
+        <module name="gupaoedu-vip-pattern-iterator" />
+        <module name="gupaoedu-vip-pattern-mediator" />
+        <module name="gupaoedu-vip-pattern-memento" />
+        <module name="gupaoedu-vip-pattern-observer" />
+        <module name="gupaoedu-vip-pattern-prototype" />
+        <module name="gupaoedu-vip-pattern-proxy" />
+        <module name="gupaoedu-vip-pattern-simplefactory" />
+        <module name="gupaoedu-vip-pattern-singleton" />
+        <module name="gupaoedu-vip-pattern-state" />
+        <module name="gupaoedu-vip-pattern-strategy" />
+        <module name="gupaoedu-vip-pattern-visitor" />
+        <module name="interpreter-mediator" />
+        <module name="observer-visitor" />
+        <module name="proxy" />
+        <module name="singleton" />
+        <module name="state-memento" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="adapter-bridge" target="1.5" />
+      <module name="builder-prototype" target="1.5" />
+      <module name="chain-strategy" target="1.5" />
+      <module name="command-iterator" target="1.5" />
+      <module name="composite-flyweight" target="1.5" />
+      <module name="delegate-template" target="1.5" />
+      <module name="facade-decorator" target="1.5" />
+      <module name="factory" target="1.5" />
+      <module name="gupaoedu-vip-pattern-abstractfactory" target="1.5" />
+      <module name="gupaoedu-vip-pattern-adapter" target="1.5" />
+      <module name="gupaoedu-vip-pattern-bridge" target="1.5" />
+      <module name="gupaoedu-vip-pattern-builder" target="1.5" />
+      <module name="gupaoedu-vip-pattern-chain" target="1.5" />
+      <module name="gupaoedu-vip-pattern-command" target="1.5" />
+      <module name="gupaoedu-vip-pattern-composite" target="1.5" />
+      <module name="gupaoedu-vip-pattern-decorator" target="1.5" />
+      <module name="gupaoedu-vip-pattern-facade" target="1.5" />
+      <module name="gupaoedu-vip-pattern-factory-pool" target="1.5" />
+      <module name="gupaoedu-vip-pattern-factorymethod" target="1.5" />
+      <module name="gupaoedu-vip-pattern-flyweight" target="1.5" />
+      <module name="gupaoedu-vip-pattern-interpreter" target="1.5" />
+      <module name="gupaoedu-vip-pattern-iterator" target="1.5" />
+      <module name="gupaoedu-vip-pattern-mediator" target="1.5" />
+      <module name="gupaoedu-vip-pattern-memento" target="1.5" />
+      <module name="gupaoedu-vip-pattern-observer" target="1.5" />
+      <module name="gupaoedu-vip-pattern-prototype" target="1.5" />
+      <module name="gupaoedu-vip-pattern-proxy" target="1.5" />
+      <module name="gupaoedu-vip-pattern-simplefactory" target="1.5" />
+      <module name="gupaoedu-vip-pattern-singleton" target="1.5" />
+      <module name="gupaoedu-vip-pattern-state" target="1.8" />
+      <module name="gupaoedu-vip-pattern-strategy" target="1.5" />
+      <module name="gupaoedu-vip-pattern-visitor" target="1.5" />
+      <module name="interpreter-mediator" target="1.5" />
+      <module name="observer-visitor" target="1.5" />
+      <module name="pattern-study" target="1.5" />
+      <module name="proxy" target="1.5" />
+      <module name="singleton" target="1.5" />
+      <module name="state-memento" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chain-strategy/gupaoedu-vip-pattern-strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/observer-visitor/gupaoedu-vip-pattern-observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/gupaoedu-vip-pattern-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/state-memento/gupaoedu-vip-pattern-state" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
